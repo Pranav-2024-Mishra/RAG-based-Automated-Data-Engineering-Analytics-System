@@ -11,3 +11,4 @@ langchain-groq>=0.2
 faiss-cpu>=1.8
 fastembed>=0.4
 langchain-chroma
+chromadb
